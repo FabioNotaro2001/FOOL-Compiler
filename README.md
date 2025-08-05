@@ -15,16 +15,16 @@ The FOOL Compiler is a lightweight, efficient compiler designed for the FOOL pro
 
 ## About
 
-This project was developed as part of the "Linguaggi, Compilatori e Modelli Computazionali" course at the University of Bologna. It aims to provide a practical implementation of a compiler for a custom language that combines functional and object-oriented programming concepts.
+This project was developed as part of the "Languages, compilers and computational models" course at the University of Bologna. It aims to provide a practical implementation of a compiler for a custom language that combines functional and object-oriented programming concepts.
 
 ## Features
 
-- **Functional Programming Support**: First-class functions, higher-order functions, and closures.
-- **Object-Oriented Programming Support**: Classes, inheritance, and polymorphism.
-- **Static Typing**: Strong type system with type inference.
-- **Custom Virtual Machine**: Code generation for a stack-based virtual machine.
-- **ANTLR-Based Parsing**: Utilizes ANTLR for lexical and syntactic analysis.
-- **Symbol Table Management**: Efficient handling of scopes and variable bindings.
+- **Functional Programming Support** -> first-class functions, higher-order functions, and closures
+- **Object-Oriented Programming Support** -> classes, inheritance and polymorphism
+- **Static Typing** -> strong type system with type inference
+- **Custom Virtual Machine** -> code generation for a stack-based virtual machine
+- **ANTLR-Based Parsing** -> utilizes ANTLR for lexical and syntactic analysis
+- **Symbol Table Management** -> efficient handling of scopes and variable bindings.
 
 ## Getting Started
 
